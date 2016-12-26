@@ -1,8 +1,4 @@
----
-title: "Getting and Cleaning Data Course Project"
-subtitle: "run_analysis.R"
-output: html_document
----
+## Getting and Cleaning Data Course Project
 
 In the Coursera Getting and Cleaning Data Course Project, we were requested to build the R script `run_analyis.R`, which does the following:
 

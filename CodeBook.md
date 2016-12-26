@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+## CodeBook
 
 This code book is a summary of `tidy.txt`, the resulting data after running `run_analysis.R`.
 
